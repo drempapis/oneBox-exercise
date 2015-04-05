@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/main/resources/anagrammatic-poem.txt=UTF-8
+encoding//src/main/resources/greek-poem.txt=UTF-8
+encoding//src/test/java/org/onebox/anagram/AnagramTest.java=UTF-8
+encoding//src/test/java/org/onebox/anagram/ReaderTest.java=UTF-8
